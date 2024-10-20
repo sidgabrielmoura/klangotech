@@ -1,8 +1,10 @@
+import InitePage from "@/components/initePage";
+
 export default function Home() {
   return (
     <>
       <main>
-        <h1>Hay</h1>
+        <InitePage/>
       </main>
     </>
   );
