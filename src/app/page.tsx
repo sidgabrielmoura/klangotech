@@ -1,8 +1,10 @@
+import Navbar from "@/components/navbar";
+
 export default function Home() {
   return (
     <>
       <main>
-        <h1>Hay</h1>
+        <Navbar/>
       </main>
     </>
   );
